@@ -1,0 +1,6 @@
+[submodule "app/src/main/jni/minivtun"]
+	path = app/src/main/jni/minivtun
+	url = https://github.com/boytm/minivtun
+[submodule "app/src/main/jni/openssl"]
+	path = app/src/main/jni/openssl
+	url = https://github.com/schwabe/platform_external_openssl.git

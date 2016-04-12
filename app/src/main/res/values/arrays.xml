@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="crypt_methods">
+        <item>aes-128</item>
+        <item>aes-256</item>
+        <item>des</item>
+        <item>desx</item>
+        <item>rc4</item>
+        <item>none</item>
+    </string-array>
+</resources>
